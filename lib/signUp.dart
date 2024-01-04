@@ -1,8 +1,5 @@
-import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:ibrgy/logInScreen.dart';
-import 'main.dart';
-import 'main.dart';
 import 'signUp2.dart';
 import 'package:intl_phone_field/intl_phone_field.dart';
 

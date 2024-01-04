@@ -1,7 +1,5 @@
 // ignore_for_file: unused_field, avoid_unnecessary_containers
 
-import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:ibrgy/appointment_pages/scheduling_cert.dart';
 
@@ -22,7 +20,6 @@ class _BrgyCertScreenState extends State<BrgyCertScreen> {
   TextEditingController _purpController = TextEditingController();
   @override
   Widget build(BuildContext context) {
-    User? users = FirebaseAuth.instance.currentUser;
 
     return Scaffold(
       appBar: AppBar(
