@@ -1,0 +1,1 @@
+ C:\\Users\\thea\ nicole\\Downloads\\iBRGY_(updated_with_firebase)\\.dart_tool\\flutter_build\\e43c574c2328707aa110c65efbe29292\\native_assets.yaml: 

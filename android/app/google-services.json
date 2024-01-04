@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686174062201",
+    "project_id": "ibrgy-app-ccb3a",
+    "storage_bucket": "ibrgy-app-ccb3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686174062201:android:4a0b71a43c9e1e8b72b6a8",
+        "android_client_info": {
+          "package_name": "com.example.ibrgy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKHJe5lO8nct8RRy52JGKSVfzI0jFuDws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

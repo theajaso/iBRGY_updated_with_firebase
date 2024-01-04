@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">686174062201</string>
+    <string name="google_api_key" translatable="false">AIzaSyCKHJe5lO8nct8RRy52JGKSVfzI0jFuDws</string>
+    <string name="google_app_id" translatable="false">1:686174062201:android:4a0b71a43c9e1e8b72b6a8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCKHJe5lO8nct8RRy52JGKSVfzI0jFuDws</string>
+    <string name="google_storage_bucket" translatable="false">ibrgy-app-ccb3a.appspot.com</string>
+    <string name="project_id" translatable="false">ibrgy-app-ccb3a</string>
+</resources>
